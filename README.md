@@ -13,8 +13,8 @@ ___
 + Создайте репозиторий на ресурсе Github
 + Добавьте в папку в редакторе кода текстовый документ
 + Введите команды для инициализации репозитория в терминал
-    + ```$ git config --global user.name "Therealkosbruh"```  - ваш логин
-    + ```$ git config --global user.email "realkoslulz@gmail.com"```  - ваша почта
+    + ```$ git config --global user.name "Lovell96"```  - ваш логин
+    + ```$ git config --global user.email "bosin2004@gmail.com"```  - ваша почта
     + ```$ git init ``` - инициализация папки
     + ```$ git add file.txt ``` - добавление, созданного ранее текстового документа
     + ``` $ git commit -m "Created first file file.txt" ``` - создание commit
